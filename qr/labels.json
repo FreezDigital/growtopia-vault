@@ -1,0 +1,352 @@
+[
+ {
+  "id": "lock.u1",
+  "hash": "#unit-lock.u1",
+  "url": "https://vault.growtopiainc.com/walk/#unit-lock.u1",
+  "label": "LOCK THE __ IN shelf \u00b7 unit 1",
+  "n": 1,
+  "name": "LOCK THE __ IN shelf",
+  "unit": 1,
+  "of": 1
+ },
+ {
+  "id": "stool",
+  "hash": "#fx-stool",
+  "url": "https://vault.growtopiainc.com/walk/#fx-stool",
+  "label": "Step stool",
+  "n": 2,
+  "name": "Step stool",
+  "unit": null,
+  "of": 1
+ },
+ {
+  "id": "rolling",
+  "hash": "#fx-rolling",
+  "url": "https://vault.growtopiainc.com/walk/#fx-rolling",
+  "label": "Rolling wire racks",
+  "n": 3,
+  "name": "Rolling wire racks",
+  "unit": null,
+  "of": 1
+ },
+ {
+  "id": "work",
+  "hash": "#fx-work",
+  "url": "https://vault.growtopiainc.com/walk/#fx-work",
+  "label": "Main workstation",
+  "n": 4,
+  "name": "Main workstation",
+  "unit": null,
+  "of": 1
+ },
+ {
+  "id": "blueunit.u1",
+  "hash": "#unit-blueunit.u1",
+  "url": "https://vault.growtopiainc.com/walk/#unit-blueunit.u1",
+  "label": "Blue-bin unit \u00b7 unit 1",
+  "n": 5,
+  "name": "Blue-bin unit",
+  "unit": 1,
+  "of": 1
+ },
+ {
+  "id": "yellowrun.u1",
+  "hash": "#unit-yellowrun.u1",
+  "url": "https://vault.growtopiainc.com/walk/#unit-yellowrun.u1",
+  "label": "Yellow-bin run \u00b7 unit 1",
+  "n": 6,
+  "name": "Yellow-bin run",
+  "unit": 1,
+  "of": 4
+ },
+ {
+  "id": "yellowrun.u2",
+  "hash": "#unit-yellowrun.u2",
+  "url": "https://vault.growtopiainc.com/walk/#unit-yellowrun.u2",
+  "label": "Yellow-bin run \u00b7 unit 2",
+  "n": 6,
+  "name": "Yellow-bin run",
+  "unit": 2,
+  "of": 4
+ },
+ {
+  "id": "yellowrun.u3",
+  "hash": "#unit-yellowrun.u3",
+  "url": "https://vault.growtopiainc.com/walk/#unit-yellowrun.u3",
+  "label": "Yellow-bin run \u00b7 unit 3",
+  "n": 6,
+  "name": "Yellow-bin run",
+  "unit": 3,
+  "of": 4
+ },
+ {
+  "id": "yellowrun.u4",
+  "hash": "#unit-yellowrun.u4",
+  "url": "https://vault.growtopiainc.com/walk/#unit-yellowrun.u4",
+  "label": "Yellow-bin run \u00b7 unit 4",
+  "n": 6,
+  "name": "Yellow-bin run",
+  "unit": 4,
+  "of": 4
+ },
+ {
+  "id": "pinknorth.u1",
+  "hash": "#unit-pinknorth.u1",
+  "url": "https://vault.growtopiainc.com/walk/#unit-pinknorth.u1",
+  "label": "Pink-bin units \u00b7 unit 1",
+  "n": 7,
+  "name": "Pink-bin units",
+  "unit": 1,
+  "of": 2
+ },
+ {
+  "id": "pinknorth.u2",
+  "hash": "#unit-pinknorth.u2",
+  "url": "https://vault.growtopiainc.com/walk/#unit-pinknorth.u2",
+  "label": "Pink-bin units \u00b7 unit 2",
+  "n": 7,
+  "name": "Pink-bin units",
+  "unit": 2,
+  "of": 2
+ },
+ {
+  "id": "pinkeast.u1",
+  "hash": "#unit-pinkeast.u1",
+  "url": "https://vault.growtopiainc.com/walk/#unit-pinkeast.u1",
+  "label": "Pink units, star sticker \u00b7 unit 1",
+  "n": 8,
+  "name": "Pink units, star sticker",
+  "unit": 1,
+  "of": 2
+ },
+ {
+  "id": "pinkeast.u2",
+  "hash": "#unit-pinkeast.u2",
+  "url": "https://vault.growtopiainc.com/walk/#unit-pinkeast.u2",
+  "label": "Pink units, star sticker \u00b7 unit 2",
+  "n": 8,
+  "name": "Pink units, star sticker",
+  "unit": 2,
+  "of": 2
+ },
+ {
+  "id": "greenrun.u1",
+  "hash": "#unit-greenrun.u1",
+  "url": "https://vault.growtopiainc.com/walk/#unit-greenrun.u1",
+  "label": "Green-bin run \u00b7 unit 1",
+  "n": 9,
+  "name": "Green-bin run",
+  "unit": 1,
+  "of": 4
+ },
+ {
+  "id": "greenrun.u2",
+  "hash": "#unit-greenrun.u2",
+  "url": "https://vault.growtopiainc.com/walk/#unit-greenrun.u2",
+  "label": "Green-bin run \u00b7 unit 2",
+  "n": 9,
+  "name": "Green-bin run",
+  "unit": 2,
+  "of": 4
+ },
+ {
+  "id": "greenrun.u3",
+  "hash": "#unit-greenrun.u3",
+  "url": "https://vault.growtopiainc.com/walk/#unit-greenrun.u3",
+  "label": "Green-bin run \u00b7 unit 3",
+  "n": 9,
+  "name": "Green-bin run",
+  "unit": 3,
+  "of": 4
+ },
+ {
+  "id": "greenrun.u4",
+  "hash": "#unit-greenrun.u4",
+  "url": "https://vault.growtopiainc.com/walk/#unit-greenrun.u4",
+  "label": "Green-bin run \u00b7 unit 4",
+  "n": 9,
+  "name": "Green-bin run",
+  "unit": 4,
+  "of": 4
+ },
+ {
+  "id": "coolers",
+  "hash": "#fx-coolers",
+  "url": "https://vault.growtopiainc.com/walk/#fx-coolers",
+  "label": "Glass-door coolers",
+  "n": 10,
+  "name": "Glass-door coolers",
+  "unit": null,
+  "of": 1
+ },
+ {
+  "id": "desk2",
+  "hash": "#fx-desk2",
+  "url": "https://vault.growtopiainc.com/walk/#fx-desk2",
+  "label": "Desk 2",
+  "n": 11,
+  "name": "Desk 2",
+  "unit": null,
+  "of": 1
+ },
+ {
+  "id": "hatch",
+  "hash": "#fx-hatch",
+  "url": "https://vault.growtopiainc.com/walk/#fx-hatch",
+  "label": "Service window",
+  "n": 12,
+  "name": "Service window",
+  "unit": null,
+  "of": 1
+ },
+ {
+  "id": "door",
+  "hash": "#fx-door",
+  "url": "https://vault.growtopiainc.com/walk/#fx-door",
+  "label": "Door",
+  "n": 13,
+  "name": "Door",
+  "unit": null,
+  "of": 1
+ },
+ {
+  "id": "island.u1",
+  "hash": "#unit-island.u1",
+  "url": "https://vault.growtopiainc.com/walk/#unit-island.u1",
+  "label": "Back island \u00b7 unit 1",
+  "n": 14,
+  "name": "Back island",
+  "unit": 1,
+  "of": 3
+ },
+ {
+  "id": "island.u2",
+  "hash": "#unit-island.u2",
+  "url": "https://vault.growtopiainc.com/walk/#unit-island.u2",
+  "label": "Back island \u00b7 unit 2",
+  "n": 14,
+  "name": "Back island",
+  "unit": 2,
+  "of": 3
+ },
+ {
+  "id": "island.u3",
+  "hash": "#unit-island.u3",
+  "url": "https://vault.growtopiainc.com/walk/#unit-island.u3",
+  "label": "Back island \u00b7 unit 3",
+  "n": 14,
+  "name": "Back island",
+  "unit": 3,
+  "of": 3
+ },
+ {
+  "id": "jarrack",
+  "hash": "#fx-jarrack",
+  "url": "https://vault.growtopiainc.com/walk/#fx-jarrack",
+  "label": "Jar rack",
+  "n": 15,
+  "name": "Jar rack",
+  "unit": null,
+  "of": 1
+ },
+ {
+  "id": "eastrun.u1",
+  "hash": "#unit-eastrun.u1",
+  "url": "https://vault.growtopiainc.com/walk/#unit-eastrun.u1",
+  "label": "East run \u00b7 unit 1",
+  "n": 16,
+  "name": "East run",
+  "unit": 1,
+  "of": 4
+ },
+ {
+  "id": "eastrun.u2",
+  "hash": "#unit-eastrun.u2",
+  "url": "https://vault.growtopiainc.com/walk/#unit-eastrun.u2",
+  "label": "East run \u00b7 unit 2",
+  "n": 16,
+  "name": "East run",
+  "unit": 2,
+  "of": 4
+ },
+ {
+  "id": "eastrun.u3",
+  "hash": "#unit-eastrun.u3",
+  "url": "https://vault.growtopiainc.com/walk/#unit-eastrun.u3",
+  "label": "East run \u00b7 unit 3",
+  "n": 16,
+  "name": "East run",
+  "unit": 3,
+  "of": 4
+ },
+ {
+  "id": "eastrun.u4",
+  "hash": "#unit-eastrun.u4",
+  "url": "https://vault.growtopiainc.com/walk/#unit-eastrun.u4",
+  "label": "East run \u00b7 unit 4",
+  "n": 16,
+  "name": "East run",
+  "unit": 4,
+  "of": 4
+ },
+ {
+  "id": "pouchrack",
+  "hash": "#fx-pouchrack",
+  "url": "https://vault.growtopiainc.com/walk/#fx-pouchrack",
+  "label": "Pouch rack",
+  "n": 17,
+  "name": "Pouch rack",
+  "unit": null,
+  "of": 1
+ },
+ {
+  "id": "tables",
+  "hash": "#fx-tables",
+  "url": "https://vault.growtopiainc.com/walk/#fx-tables",
+  "label": "Folding tables",
+  "n": 18,
+  "name": "Folding tables",
+  "unit": null,
+  "of": 1
+ },
+ {
+  "id": "stacks",
+  "hash": "#fx-stacks",
+  "url": "https://vault.growtopiainc.com/walk/#fx-stacks",
+  "label": "Floor stacks",
+  "n": 19,
+  "name": "Floor stacks",
+  "unit": null,
+  "of": 1
+ },
+ {
+  "id": "greenrack",
+  "hash": "#fx-greenrack",
+  "url": "https://vault.growtopiainc.com/walk/#fx-greenrack",
+  "label": "Chrome rack, green boxes",
+  "n": 20,
+  "name": "Chrome rack, green boxes",
+  "unit": null,
+  "of": 1
+ },
+ {
+  "id": "tagrack",
+  "hash": "#fx-tagrack",
+  "url": "https://vault.growtopiainc.com/walk/#fx-tagrack",
+  "label": "Chrome rack, tags",
+  "n": 21,
+  "name": "Chrome rack, tags",
+  "unit": null,
+  "of": 1
+ },
+ {
+  "id": "fans",
+  "hash": "#fx-fans",
+  "url": "https://vault.growtopiainc.com/walk/#fx-fans",
+  "label": "Tower fans",
+  "n": 22,
+  "name": "Tower fans",
+  "unit": null,
+  "of": 1
+ }
+]
