@@ -1,0 +1,392 @@
+{
+ "site": "https://vault.growtopiainc.com/walk/",
+ "note": "Deep-link targets for printed QR codes: open site + hash. Units are the <fixture>.u<N> item prefixes of data/vault.json; fixtures without units use #fx-<id>. Every fixture id also works as #fx-<id>.",
+ "count": 35,
+ "targets": [
+  {
+   "id": "lock.u1",
+   "hash": "#unit-lock.u1",
+   "label": "LOCK THE __ IN shelf · unit 1",
+   "kind": "unit",
+   "fixture": {
+    "id": "lock",
+    "n": 1,
+    "name": "LOCK THE __ IN shelf"
+   }
+  },
+  {
+   "id": "blueunit.u1",
+   "hash": "#unit-blueunit.u1",
+   "label": "Blue-bin unit · unit 1",
+   "kind": "unit",
+   "fixture": {
+    "id": "blueunit",
+    "n": 5,
+    "name": "Blue-bin unit"
+   }
+  },
+  {
+   "id": "yellowrun.u1",
+   "hash": "#unit-yellowrun.u1",
+   "label": "Yellow-bin run · unit 1",
+   "kind": "unit",
+   "fixture": {
+    "id": "yellowrun",
+    "n": 6,
+    "name": "Yellow-bin run"
+   }
+  },
+  {
+   "id": "yellowrun.u2",
+   "hash": "#unit-yellowrun.u2",
+   "label": "Yellow-bin run · unit 2",
+   "kind": "unit",
+   "fixture": {
+    "id": "yellowrun",
+    "n": 6,
+    "name": "Yellow-bin run"
+   }
+  },
+  {
+   "id": "yellowrun.u3",
+   "hash": "#unit-yellowrun.u3",
+   "label": "Yellow-bin run · unit 3",
+   "kind": "unit",
+   "fixture": {
+    "id": "yellowrun",
+    "n": 6,
+    "name": "Yellow-bin run"
+   }
+  },
+  {
+   "id": "yellowrun.u4",
+   "hash": "#unit-yellowrun.u4",
+   "label": "Yellow-bin run · unit 4",
+   "kind": "unit",
+   "fixture": {
+    "id": "yellowrun",
+    "n": 6,
+    "name": "Yellow-bin run"
+   }
+  },
+  {
+   "id": "pinknorth.u1",
+   "hash": "#unit-pinknorth.u1",
+   "label": "Pink-bin units · unit 1",
+   "kind": "unit",
+   "fixture": {
+    "id": "pinknorth",
+    "n": 7,
+    "name": "Pink-bin units"
+   }
+  },
+  {
+   "id": "pinknorth.u2",
+   "hash": "#unit-pinknorth.u2",
+   "label": "Pink-bin units · unit 2",
+   "kind": "unit",
+   "fixture": {
+    "id": "pinknorth",
+    "n": 7,
+    "name": "Pink-bin units"
+   }
+  },
+  {
+   "id": "pinkeast.u1",
+   "hash": "#unit-pinkeast.u1",
+   "label": "Pink units, star sticker · unit 1",
+   "kind": "unit",
+   "fixture": {
+    "id": "pinkeast",
+    "n": 8,
+    "name": "Pink units, star sticker"
+   }
+  },
+  {
+   "id": "pinkeast.u2",
+   "hash": "#unit-pinkeast.u2",
+   "label": "Pink units, star sticker · unit 2",
+   "kind": "unit",
+   "fixture": {
+    "id": "pinkeast",
+    "n": 8,
+    "name": "Pink units, star sticker"
+   }
+  },
+  {
+   "id": "greenrun.u1",
+   "hash": "#unit-greenrun.u1",
+   "label": "Green-bin run · unit 1",
+   "kind": "unit",
+   "fixture": {
+    "id": "greenrun",
+    "n": 9,
+    "name": "Green-bin run"
+   }
+  },
+  {
+   "id": "greenrun.u2",
+   "hash": "#unit-greenrun.u2",
+   "label": "Green-bin run · unit 2",
+   "kind": "unit",
+   "fixture": {
+    "id": "greenrun",
+    "n": 9,
+    "name": "Green-bin run"
+   }
+  },
+  {
+   "id": "greenrun.u3",
+   "hash": "#unit-greenrun.u3",
+   "label": "Green-bin run · unit 3",
+   "kind": "unit",
+   "fixture": {
+    "id": "greenrun",
+    "n": 9,
+    "name": "Green-bin run"
+   }
+  },
+  {
+   "id": "greenrun.u4",
+   "hash": "#unit-greenrun.u4",
+   "label": "Green-bin run · unit 4",
+   "kind": "unit",
+   "fixture": {
+    "id": "greenrun",
+    "n": 9,
+    "name": "Green-bin run"
+   }
+  },
+  {
+   "id": "island.u1",
+   "hash": "#unit-island.u1",
+   "label": "Back island · unit 1",
+   "kind": "unit",
+   "fixture": {
+    "id": "island",
+    "n": 14,
+    "name": "Back island"
+   }
+  },
+  {
+   "id": "island.u2",
+   "hash": "#unit-island.u2",
+   "label": "Back island · unit 2",
+   "kind": "unit",
+   "fixture": {
+    "id": "island",
+    "n": 14,
+    "name": "Back island"
+   }
+  },
+  {
+   "id": "island.u3",
+   "hash": "#unit-island.u3",
+   "label": "Back island · unit 3",
+   "kind": "unit",
+   "fixture": {
+    "id": "island",
+    "n": 14,
+    "name": "Back island"
+   }
+  },
+  {
+   "id": "eastrun.u1",
+   "hash": "#unit-eastrun.u1",
+   "label": "East run · unit 1",
+   "kind": "unit",
+   "fixture": {
+    "id": "eastrun",
+    "n": 16,
+    "name": "East run"
+   }
+  },
+  {
+   "id": "eastrun.u2",
+   "hash": "#unit-eastrun.u2",
+   "label": "East run · unit 2",
+   "kind": "unit",
+   "fixture": {
+    "id": "eastrun",
+    "n": 16,
+    "name": "East run"
+   }
+  },
+  {
+   "id": "eastrun.u3",
+   "hash": "#unit-eastrun.u3",
+   "label": "East run · unit 3",
+   "kind": "unit",
+   "fixture": {
+    "id": "eastrun",
+    "n": 16,
+    "name": "East run"
+   }
+  },
+  {
+   "id": "eastrun.u4",
+   "hash": "#unit-eastrun.u4",
+   "label": "East run · unit 4",
+   "kind": "unit",
+   "fixture": {
+    "id": "eastrun",
+    "n": 16,
+    "name": "East run"
+   }
+  },
+  {
+   "id": "stool",
+   "hash": "#fx-stool",
+   "label": "Step stool",
+   "kind": "fixture",
+   "fixture": {
+    "id": "stool",
+    "n": 2,
+    "name": "Step stool"
+   }
+  },
+  {
+   "id": "rolling",
+   "hash": "#fx-rolling",
+   "label": "Rolling wire racks",
+   "kind": "fixture",
+   "fixture": {
+    "id": "rolling",
+    "n": 3,
+    "name": "Rolling wire racks"
+   }
+  },
+  {
+   "id": "work",
+   "hash": "#fx-work",
+   "label": "Main workstation",
+   "kind": "fixture",
+   "fixture": {
+    "id": "work",
+    "n": 4,
+    "name": "Main workstation"
+   }
+  },
+  {
+   "id": "coolers",
+   "hash": "#fx-coolers",
+   "label": "Glass-door coolers",
+   "kind": "fixture",
+   "fixture": {
+    "id": "coolers",
+    "n": 10,
+    "name": "Glass-door coolers"
+   }
+  },
+  {
+   "id": "desk2",
+   "hash": "#fx-desk2",
+   "label": "Desk 2",
+   "kind": "fixture",
+   "fixture": {
+    "id": "desk2",
+    "n": 11,
+    "name": "Desk 2"
+   }
+  },
+  {
+   "id": "hatch",
+   "hash": "#fx-hatch",
+   "label": "Service window",
+   "kind": "fixture",
+   "fixture": {
+    "id": "hatch",
+    "n": 12,
+    "name": "Service window"
+   }
+  },
+  {
+   "id": "door",
+   "hash": "#fx-door",
+   "label": "Door",
+   "kind": "fixture",
+   "fixture": {
+    "id": "door",
+    "n": 13,
+    "name": "Door"
+   }
+  },
+  {
+   "id": "jarrack",
+   "hash": "#fx-jarrack",
+   "label": "Jar rack",
+   "kind": "fixture",
+   "fixture": {
+    "id": "jarrack",
+    "n": 15,
+    "name": "Jar rack"
+   }
+  },
+  {
+   "id": "pouchrack",
+   "hash": "#fx-pouchrack",
+   "label": "Pouch rack",
+   "kind": "fixture",
+   "fixture": {
+    "id": "pouchrack",
+    "n": 17,
+    "name": "Pouch rack"
+   }
+  },
+  {
+   "id": "tables",
+   "hash": "#fx-tables",
+   "label": "Folding tables",
+   "kind": "fixture",
+   "fixture": {
+    "id": "tables",
+    "n": 18,
+    "name": "Folding tables"
+   }
+  },
+  {
+   "id": "stacks",
+   "hash": "#fx-stacks",
+   "label": "Floor stacks",
+   "kind": "fixture",
+   "fixture": {
+    "id": "stacks",
+    "n": 19,
+    "name": "Floor stacks"
+   }
+  },
+  {
+   "id": "greenrack",
+   "hash": "#fx-greenrack",
+   "label": "Chrome rack, green boxes",
+   "kind": "fixture",
+   "fixture": {
+    "id": "greenrack",
+    "n": 20,
+    "name": "Chrome rack, green boxes"
+   }
+  },
+  {
+   "id": "tagrack",
+   "hash": "#fx-tagrack",
+   "label": "Chrome rack, tags",
+   "kind": "fixture",
+   "fixture": {
+    "id": "tagrack",
+    "n": 21,
+    "name": "Chrome rack, tags"
+   }
+  },
+  {
+   "id": "fans",
+   "hash": "#fx-fans",
+   "label": "Tower fans",
+   "kind": "fixture",
+   "fixture": {
+    "id": "fans",
+    "n": 22,
+    "name": "Tower fans"
+   }
+  }
+ ]
+}
