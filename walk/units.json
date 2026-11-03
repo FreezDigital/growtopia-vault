@@ -1,7 +1,7 @@
 {
  "site": "https://vault.growtopiainc.com/walk/",
  "note": "Deep-link targets for printed QR codes: open site + hash. Units are the <fixture>.u<N> item prefixes of data/vault.json; fixtures without units use #fx-<id>. Every fixture id also works as #fx-<id>.",
- "count": 35,
+ "count": 33,
  "targets": [
   {
    "id": "lock.u1",
@@ -161,28 +161,6 @@
    "id": "island.u1",
    "hash": "#unit-island.u1",
    "label": "Back island · unit 1",
-   "kind": "unit",
-   "fixture": {
-    "id": "island",
-    "n": 14,
-    "name": "Back island"
-   }
-  },
-  {
-   "id": "island.u2",
-   "hash": "#unit-island.u2",
-   "label": "Back island · unit 2",
-   "kind": "unit",
-   "fixture": {
-    "id": "island",
-    "n": 14,
-    "name": "Back island"
-   }
-  },
-  {
-   "id": "island.u3",
-   "hash": "#unit-island.u3",
-   "label": "Back island · unit 3",
    "kind": "unit",
    "fixture": {
     "id": "island",
